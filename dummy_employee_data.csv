@@ -1,0 +1,101 @@
+Employee ID,Current Job Role,Department,Monthly Income,Skills,Education Level,Certifications,Promotion Last 3 Years,Job Performance Rating,Preferred Job Role
+E1000,Analyst,IT,10913,"Python, SQL, Cloud, Leadership, Java",Bachelor's,"Scrum Master, Google Cloud Certified, PMP",3,3,Architect
+E1001,Consultant,HR,7998,"Leadership, Python, Java, Excel",High School,AWS Certified,1,5,Architect
+E1002,Developer,Sales,3298,"Project Management, SQL, Java",Bachelor's,"ITIL, Google Cloud Certified",1,2,Director
+E1003,Analyst,Marketing,8151,"Java, Leadership, Python",Bachelor's,"Google Cloud Certified, AWS Certified, Scrum Master",1,1,Consultant
+E1004,Manager,Finance,9758,"Leadership, Java, SQL",PhD,AWS Certified,2,5,Director
+E1005,Developer,Marketing,7931,"Python, Excel",High School,Scrum Master,0,3,Director
+E1006,Manager,Operations,12130,"Project Management, Java, SQL, Leadership",PhD,Google Cloud Certified,1,1,Consultant
+E1007,Analyst,HR,4739,"Python, Excel",Bachelor's,"AWS Certified, PMP",1,2,Team Lead
+E1008,Consultant,HR,9583,"Project Management, SQL, Excel, Java",Bachelor's,"Scrum Master, AWS Certified",3,3,Architect
+E1009,Specialist,Operations,6718,"SQL, Excel, Cloud, Python",High School,ITIL,2,2,Team Lead
+E1010,Specialist,IT,5789,"Python, Java, Leadership, Excel",High School,Google Cloud Certified,0,5,Director
+E1011,Manager,IT,12655,"Project Management, Leadership, Cloud, Python, SQL",PhD,"Google Cloud Certified, PMP, Scrum Master",3,2,Senior Manager
+E1012,Developer,Finance,5093,"Python, Leadership",High School,"Scrum Master, PMP, AWS Certified",3,2,Consultant
+E1013,Analyst,IT,4750,"SQL, Python, Java, Leadership",High School,"Google Cloud Certified, Scrum Master",3,2,Director
+E1014,Manager,IT,3111,"Cloud, Excel, Java, SQL, Leadership",Master's,"ITIL, AWS Certified, Scrum Master",1,3,Senior Manager
+E1015,Developer,Operations,12447,"Cloud, Leadership, Python",Master's,"PMP, ITIL, AWS Certified",0,1,Architect
+E1016,Developer,Operations,7954,"Leadership, Excel, Cloud, Project Management, Java",Master's,"ITIL, Scrum Master, Google Cloud Certified",0,3,Senior Manager
+E1017,Manager,Finance,10396,"SQL, Python, Cloud, Project Management",Master's,AWS Certified,0,3,Senior Manager
+E1018,Manager,Finance,6794,"Project Management, Cloud, Java, Leadership, Excel",Master's,"Scrum Master, Google Cloud Certified, ITIL",2,5,Director
+E1019,Consultant,Sales,8655,"Excel, Leadership",High School,Scrum Master,1,3,Team Lead
+E1020,Specialist,Finance,11889,"Leadership, Java",High School,"ITIL, PMP",3,2,Senior Manager
+E1021,Developer,Marketing,9003,"SQL, Java, Excel, Project Management, Leadership",Master's,"ITIL, Scrum Master",1,3,Director
+E1022,Consultant,Operations,10747,"Leadership, Project Management, Excel",Master's,Scrum Master,1,5,Consultant
+E1023,Manager,Operations,7646,"Python, Cloud, Leadership, Project Management, Excel",Master's,"AWS Certified, Google Cloud Certified, Scrum Master",3,2,Team Lead
+E1024,Specialist,HR,12235,"Java, Leadership",Master's,"Google Cloud Certified, AWS Certified, PMP",1,5,Director
+E1025,Analyst,Operations,10055,"Java, Excel, Python, Cloud",Bachelor's,Google Cloud Certified,2,4,Architect
+E1026,Analyst,Sales,4022,"Java, SQL, Project Management, Cloud",PhD,Google Cloud Certified,2,4,Senior Manager
+E1027,Analyst,Operations,7032,"Cloud, Leadership, Python, Project Management, Java",High School,"PMP, Google Cloud Certified, AWS Certified",2,3,Team Lead
+E1028,Consultant,Marketing,7286,"Leadership, Python, Excel, Cloud",Master's,AWS Certified,3,4,Director
+E1029,Manager,Finance,12084,"SQL, Project Management",Bachelor's,"Scrum Master, Google Cloud Certified, AWS Certified",3,2,Director
+E1030,Consultant,Sales,6856,"Project Management, Java, Leadership",Bachelor's,"Google Cloud Certified, Scrum Master",1,5,Team Lead
+E1031,Developer,HR,14030,"Excel, Project Management, Java, Leadership, Cloud",Master's,"Google Cloud Certified, Scrum Master",2,3,Architect
+E1032,Analyst,Marketing,9456,"Java, Excel, Leadership, Cloud",Master's,"AWS Certified, ITIL",1,2,Director
+E1033,Specialist,Finance,8318,"Leadership, Excel",Bachelor's,Google Cloud Certified,1,5,Consultant
+E1034,Developer,Sales,11537,"Leadership, Excel, Project Management, Python, SQL",Bachelor's,"AWS Certified, Scrum Master",3,1,Team Lead
+E1035,Specialist,Marketing,13983,"Java, Project Management, Cloud, SQL, Python",Bachelor's,Scrum Master,0,3,Senior Manager
+E1036,Consultant,HR,4688,"Excel, Cloud, Java, Python, Leadership",PhD,PMP,0,4,Consultant
+E1037,Manager,HR,6987,"Excel, Project Management",Master's,"Scrum Master, PMP, AWS Certified",1,5,Team Lead
+E1038,Developer,Finance,13928,"Java, Leadership, SQL, Cloud",Bachelor's,Google Cloud Certified,0,5,Consultant
+E1039,Developer,HR,12541,"Project Management, Python, SQL",PhD,PMP,3,2,Consultant
+E1040,Specialist,Sales,7936,"Cloud, Python, Excel, Project Management",High School,Google Cloud Certified,0,5,Senior Manager
+E1041,Analyst,Operations,8665,"Leadership, SQL, Python, Java, Excel",High School,"AWS Certified, Scrum Master, Google Cloud Certified",0,3,Team Lead
+E1042,Developer,IT,3708,"Project Management, Leadership, Java, Excel",PhD,"ITIL, AWS Certified, PMP",0,2,Director
+E1043,Developer,IT,13939,"Excel, SQL, Python, Cloud, Leadership",PhD,"PMP, AWS Certified, Scrum Master",1,1,Architect
+E1044,Manager,Finance,13680,"Python, Leadership",Bachelor's,"Google Cloud Certified, ITIL",2,2,Senior Manager
+E1045,Manager,Finance,9185,"Project Management, Leadership, Java",High School,AWS Certified,1,4,Consultant
+E1046,Analyst,Marketing,8830,"Project Management, Excel, SQL, Java, Leadership",High School,"AWS Certified, PMP, Scrum Master",2,1,Director
+E1047,Specialist,IT,11249,"Leadership, Cloud",Bachelor's,ITIL,0,3,Consultant
+E1048,Developer,Marketing,7288,"Leadership, SQL, Python, Cloud, Project Management",PhD,AWS Certified,0,3,Director
+E1049,Consultant,Operations,4017,"SQL, Project Management, Cloud, Excel",High School,ITIL,3,1,Consultant
+E1050,Consultant,IT,13821,"Cloud, Project Management, Python, Leadership",Bachelor's,"Scrum Master, Google Cloud Certified",3,3,Team Lead
+E1051,Developer,HR,6377,"SQL, Cloud, Python",Master's,AWS Certified,2,5,Consultant
+E1052,Analyst,Operations,8170,"Python, Cloud, Leadership, Java, SQL",Bachelor's,"PMP, AWS Certified",3,3,Director
+E1053,Specialist,Marketing,6738,"Project Management, Leadership, Java",High School,"Google Cloud Certified, AWS Certified",2,3,Director
+E1054,Manager,Marketing,11152,"Java, Cloud",High School,"PMP, Google Cloud Certified",3,1,Team Lead
+E1055,Specialist,Operations,10453,"Python, Cloud, Leadership",PhD,"Google Cloud Certified, PMP",0,3,Senior Manager
+E1056,Manager,Sales,9000,"Project Management, Python, Excel",Master's,ITIL,3,3,Consultant
+E1057,Analyst,Operations,8912,"Project Management, Python, Excel, Cloud, Java",Bachelor's,ITIL,2,4,Director
+E1058,Manager,Operations,5792,"Excel, Cloud",Master's,"ITIL, Scrum Master, AWS Certified",1,1,Consultant
+E1059,Specialist,IT,5495,"Cloud, Project Management",High School,"AWS Certified, ITIL, Scrum Master",1,2,Architect
+E1060,Manager,IT,5278,"Excel, Cloud",PhD,"AWS Certified, Google Cloud Certified",0,1,Senior Manager
+E1061,Analyst,Finance,11581,"Python, Cloud, Java",Bachelor's,"PMP, Google Cloud Certified, AWS Certified",0,3,Architect
+E1062,Specialist,Finance,10950,"Leadership, Python",Bachelor's,"AWS Certified, PMP",2,2,Architect
+E1063,Manager,Sales,11489,"Python, Cloud, Java, Project Management",PhD,"Scrum Master, ITIL",0,5,Senior Manager
+E1064,Analyst,Sales,3349,"Cloud, Java, Python, SQL, Project Management",High School,"Scrum Master, AWS Certified, PMP",0,3,Director
+E1065,Analyst,Marketing,9112,"SQL, Project Management, Java, Excel",Master's,PMP,3,5,Architect
+E1066,Developer,Sales,7634,"Project Management, Python, Leadership",PhD,Scrum Master,1,2,Senior Manager
+E1067,Developer,Marketing,4175,"Leadership, Java, SQL",Master's,"Google Cloud Certified, ITIL, AWS Certified",2,1,Team Lead
+E1068,Manager,Finance,7599,"SQL, Project Management",High School,PMP,1,3,Architect
+E1069,Consultant,Marketing,4000,"Leadership, Project Management, Java, Excel",Bachelor's,"Scrum Master, Google Cloud Certified, ITIL",0,3,Senior Manager
+E1070,Analyst,IT,10599,"Project Management, Cloud, Java, Leadership",Bachelor's,Scrum Master,1,5,Director
+E1071,Developer,IT,12229,"Java, Leadership, Cloud",PhD,"ITIL, AWS Certified",3,3,Senior Manager
+E1072,Developer,Operations,9044,"Java, Project Management, Cloud, Leadership",Master's,"Google Cloud Certified, Scrum Master, ITIL",2,3,Consultant
+E1073,Consultant,IT,8193,"Java, Leadership, Python",PhD,"PMP, ITIL, AWS Certified",1,1,Architect
+E1074,Consultant,HR,7856,"Excel, Project Management, SQL, Leadership",Master's,Scrum Master,0,3,Director
+E1075,Manager,Finance,14355,"Leadership, Excel",PhD,"Scrum Master, ITIL",1,1,Architect
+E1076,Consultant,Finance,7853,"SQL, Java, Leadership, Python",Master's,AWS Certified,1,1,Team Lead
+E1077,Analyst,Marketing,13401,"Java, SQL",Bachelor's,"ITIL, Google Cloud Certified, PMP",1,2,Director
+E1078,Specialist,Marketing,9680,"Project Management, Python",Bachelor's,"AWS Certified, Scrum Master, Google Cloud Certified",0,3,Architect
+E1079,Manager,HR,6825,"Cloud, Python",Master's,Scrum Master,3,2,Architect
+E1080,Manager,Marketing,10820,"Cloud, Project Management, Java, Excel, Leadership",High School,"Scrum Master, ITIL, PMP",1,3,Senior Manager
+E1081,Analyst,Marketing,7378,"Java, Python",Bachelor's,"PMP, AWS Certified, ITIL",3,2,Consultant
+E1082,Consultant,Marketing,7039,"Java, Python, Cloud, Project Management",Master's,PMP,3,5,Senior Manager
+E1083,Developer,Finance,14189,"SQL, Java",Master's,"Google Cloud Certified, ITIL",3,5,Consultant
+E1084,Analyst,HR,3515,"Java, Project Management",Bachelor's,AWS Certified,3,4,Consultant
+E1085,Developer,Marketing,6218,"Project Management, Java, Python, Excel, Leadership",High School,AWS Certified,3,1,Senior Manager
+E1086,Specialist,IT,11657,"Excel, Python, Project Management",High School,ITIL,3,3,Director
+E1087,Analyst,Operations,13529,"Excel, Cloud, SQL, Python",PhD,"Google Cloud Certified, PMP, ITIL",1,5,Team Lead
+E1088,Consultant,Finance,7753,"Project Management, Cloud",PhD,"ITIL, PMP, AWS Certified",3,1,Senior Manager
+E1089,Developer,Finance,12274,"Cloud, Java, Python, SQL, Project Management",PhD,AWS Certified,1,4,Senior Manager
+E1090,Manager,IT,13803,"Cloud, Project Management, Excel",High School,"ITIL, PMP",2,4,Consultant
+E1091,Consultant,Marketing,7561,"Excel, Python",Master's,"Google Cloud Certified, PMP",3,4,Architect
+E1092,Analyst,Operations,9043,"Project Management, Java, Cloud",PhD,"PMP, Scrum Master, AWS Certified",3,5,Team Lead
+E1093,Specialist,Operations,7628,"Leadership, Python",High School,"Google Cloud Certified, ITIL",3,3,Consultant
+E1094,Analyst,Sales,10414,"SQL, Java",Bachelor's,"Scrum Master, AWS Certified",1,5,Consultant
+E1095,Developer,Marketing,5158,"SQL, Cloud",Bachelor's,AWS Certified,3,5,Architect
+E1096,Consultant,HR,13289,"SQL, Cloud, Excel, Project Management, Leadership",Bachelor's,"Scrum Master, ITIL, PMP",0,4,Consultant
+E1097,Manager,Sales,10866,"Python, Java, SQL, Project Management, Excel",High School,"Google Cloud Certified, ITIL, PMP",1,4,Senior Manager
+E1098,Specialist,HR,5675,"Project Management, Java, SQL, Python",Master's,Scrum Master,3,5,Team Lead
+E1099,Manager,Operations,11726,"Project Management, Excel, SQL",PhD,Scrum Master,3,3,Senior Manager
