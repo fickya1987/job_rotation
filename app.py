@@ -3,10 +3,10 @@ import pandas as pd
 import pickle
 
 # Load the trained model
-@st.cache
+@st.cache_resource
 def load_model():
     try:
-        with open("model_updated.pkl", "rb") as file:
+        with open("model.pkl", "rb") as file:
             return pickle.load(file)
     except FileNotFoundError:
         st.error("Model file not found. Please ensure 'model.pkl' is in the same directory as this script.")
