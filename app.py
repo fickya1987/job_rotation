@@ -97,7 +97,7 @@ st.subheader('Hasil Prediksi')
 Rekomendasi = 'Direkomendasikan' if prediction[0] == 1 else 'Tidak Direkomendasikan'
 warna = 'green' if prediction[0] == 1 else 'red'
 
-st.markdown(f"**Hasil Prediksi:** <span style='color:{warna}'>{rekomendasi}</span>", unsafe_allow_html=True)
+st.markdown(f"**Hasil Prediksi:** <span style='color:{warna}'>{Rekomendasi}</span>", unsafe_allow_html=True)
 st.write(f'Probabilitas: {prediction_proba[0][1]:.2f}')
 
 # Feature importance
