@@ -25,13 +25,13 @@ else:
     def generate_data():
         np.random.seed(42)
         data = {
-            'usia': np.random.randint(22, 55, 1000),
-            'pendidikan': np.random.choice([1, 2, 3], 1000, p=[0.2, 0.6, 0.2]),
-            'kinerja': np.random.normal(75, 10, 1000),
-            'pengalaman': np.random.randint(1, 20, 1000),
-            'pelatihan': np.random.randint(0, 100, 1000),
-            'proyek': np.random.randint(0, 15, 1000),
-            'rekomendasi': np.random.choice([0, 1], 1000, p=[0.7, 0.3])
+            'Usia': np.random.randint(22, 55, 1000),
+            'Pendidikan': np.random.choice([1, 2, 3], 1000, p=[0.2, 0.6, 0.2]),
+            'Kinerja': np.random.normal(75, 10, 1000),
+            'Pengalaman': np.random.randint(1, 20, 1000),
+            'Pelatihan': np.random.randint(0, 100, 1000),
+            'Proyek': np.random.randint(0, 15, 1000),
+            'Rekomendasi': np.random.choice([0, 1], 1000, p=[0.7, 0.3])
         }
         return pd.DataFrame(data)
 
@@ -62,22 +62,22 @@ model, scaler, accuracy = train_model(data)
 st.sidebar.header('Parameter Input')
 
 def user_input():
-    usia = st.sidebar.slider('Usia', 20, 60, 30)
-    pendidikan = st.sidebar.selectbox('Tingkat Pendidikan', ('S1', 'S2', 'S3'))
-    kinerja = st.sidebar.slider('Nilai Kinerja', 0.0, 100.0, 75.0)
-    pengalaman = st.sidebar.slider('Pengalaman Kerja (tahun)', 0, 30, 5)
-    pelatihan = st.sidebar.slider('Jam Pelatihan', 0, 200, 50)
-    proyek = st.sidebar.slider('Jumlah Proyek', 0, 30, 5)
+    Usia = st.sidebar.slider('Usia', 20, 60, 30)
+    Pendidikan = st.sidebar.selectbox('Tingkat Pendidikan', ('S1', 'S2', 'S3'))
+    Kinerja = st.sidebar.slider('Nilai Kinerja', 0.0, 100.0, 75.0)
+    Pengalaman = st.sidebar.slider('Pengalaman Kerja (tahun)', 0, 30, 5)
+    Pelatihan = st.sidebar.slider('Jam Pelatihan', 0, 200, 50)
+    Proyek = st.sidebar.slider('Jumlah Proyek', 0, 30, 5)
     
-    pendidikan_map = {'S1': 1, 'S2': 2, 'S3': 3}
+    Pendidikan_Map = {'S1': 1, 'S2': 2, 'S3': 3}
     
     return {
-        'usia': usia,
-        'pendidikan': pendidikan_map[pendidikan],
-        'kinerja': kinerja,
-        'pengalaman': pengalaman,
-        'pelatihan': pelatihan,
-        'proyek': proyek
+        'Usia': Usia,
+        'Pendidikan': Pendidikan_Map[Pendidikan],
+        'Kinerja': Kinerja,
+        'Pengalaman': Pengalaman,
+        'Pelatihan': Pelatihan,
+        'Proyek': Proyek
     }
 
 input_data = user_input()
