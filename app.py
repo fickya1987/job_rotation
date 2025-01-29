@@ -94,7 +94,7 @@ prediction_proba = model.predict_proba(scaled_input)
 
 # Tampilkan hasil prediksi
 st.subheader('Hasil Prediksi')
-rekomendasi = 'Direkomendasikan' if prediction[0] == 1 else 'Tidak Direkomendasikan'
+Rekomendasi = 'Direkomendasikan' if prediction[0] == 1 else 'Tidak Direkomendasikan'
 warna = 'green' if prediction[0] == 1 else 'red'
 
 st.markdown(f"**Hasil Prediksi:** <span style='color:{warna}'>{rekomendasi}</span>", unsafe_allow_html=True)
@@ -103,7 +103,7 @@ st.write(f'Probabilitas: {prediction_proba[0][1]:.2f}')
 # Feature importance
 st.subheader('Faktor Penting dalam Prediksi')
 importances = model.feature_importances_
-feature_names = data.drop('rekomendasi', axis=1).columns
+feature_names = data.drop('Rekomendasi', axis=1).columns
 importance_df = pd.DataFrame({'Fitur': feature_names, 'Penting': importances})
 importance_df = importance_df.sort_values('Penting', ascending=False)
 st.bar_chart(importance_df.set_index('Fitur'))
