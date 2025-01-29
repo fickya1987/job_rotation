@@ -40,7 +40,7 @@ else:
 # Fungsi untuk melatih model
 def train_model(data):
     X = data.drop('Rekomendasi', axis=1)
-    y = data['rekomendasi']
+    y = data['Rekomendasi']
     
     scaler = StandardScaler()
     X = scaler.fit_transform(X)
